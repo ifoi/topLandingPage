@@ -1,0 +1,43 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    display: flex;
+}
+
+header, .section-top {
+    background-color: #1f2937;
+}
+
+.section-top {
+    color: #f9faf8;
+}
+.section-middle {
+    /* background-color: # */
+    font: 36px extra-bold #1F2937;
+}
+
+  button, .call-to-action {
+    background-color: #2882F6
+
+}
+
+.section-bottom {
+    background-color: #E5E6EB;
+    /* font-size: 36px ; */
+    font: 36px "light italic" #1F2937;,
+}
+
+.call-to-action {
+    justify-content: space-between;
+    
+    
+}
+
+ul {
+    list-style-type: none;
+    font: size 18px;
+}
