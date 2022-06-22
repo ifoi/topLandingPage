@@ -167,8 +167,10 @@ footer {
 }
 
 #top-image{
+    margin-top: 50px;
     margin-right: 100px;
     /* padding: 2ren: */
+    width:75% ;
 }
 
 #info-header{
